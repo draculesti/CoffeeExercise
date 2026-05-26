@@ -1,4 +1,4 @@
-# 🍔 Coffee Shop
+# 🍵 Coffee Shop
 
 Coffe shop a simple page to practice the html, with css
 
