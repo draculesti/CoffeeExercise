@@ -17,7 +17,7 @@ body {
 img {
   border-radius: 20px;
   width: 200px;
-  height: 200px;
+  height: 250px;
 }
 
 .container {
@@ -27,19 +27,16 @@ img {
   flex-wrap: wrap;
 }
 
-/* NAVBAR */
 nav {
   width: 100%;
   background-color: #6651a4;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 10px;
+  padding: 5px 5px;
   border-radius: 20px;
 }
 
-/* LOGO */
 .logo {
   display: flex;
   align-items: center;
@@ -57,7 +54,6 @@ nav {
   font-size: 1.7rem;
 }
 
-/* LINKS */
 .nav-links {
   display: flex;
   gap: 40px;
@@ -82,22 +78,16 @@ nav {
 
 .hero {
   width: 100%;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 40px;
-
   padding: 60px;
-
   border-radius: 30px;
-
   background: rgba(255, 255, 255, 0.4);
-
   backdrop-filter: blur(10px);
 }
 
-/* LEFT SIDE */
 
 .hero-text {
   flex: 1;
